@@ -112,7 +112,7 @@ abpco.clickoncheckout();
 Secure_shopping_Basket ssb=new Secure_shopping_Basket(driver);
 ssb.click_updateShopping();
 
-
+//Every thing can be change from the Git_Hub
 	}
 
 }
