@@ -112,7 +112,7 @@ abpco.clickoncheckout();
 Secure_shopping_Basket ssb=new Secure_shopping_Basket(driver);
 ssb.click_updateShopping();
 
-// These is the change from my Git-Hub Account for first Time 
+// These is my Second modified code on Git-Hub
 	}
 
 }
